@@ -1,7 +1,7 @@
 # Encryptix-UI-UX-Design-Task-2
 
 <ul>Name: SHUBHAM KUMAR</ul>
-<ul>Company: Encrytix</ul>
+<ul>Company: Encryptix</ul>
 <ul>Domain: UI/UX Designer</ul>
 <ul>ID: EXM150808</ul>
 <ul>Duration: 20 August 2024 to 20 September 2024</ul>
